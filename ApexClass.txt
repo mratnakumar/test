@@ -1,0 +1,7 @@
+public class myclass{
+Public void myclass(){
+
+return null;
+}
+
+}
