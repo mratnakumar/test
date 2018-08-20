@@ -3,5 +3,12 @@
 =======
 1 first input
 Ratnakumar adding 2nd commit
+<<<<<<< HEAD
 3rd commit
 >>>>>>> 46e1949... 3rd Commit
+=======
+3rd commig
+
+4th commit 5th commit
+6th commit
+>>>>>>> 3c62418... 4th commit
