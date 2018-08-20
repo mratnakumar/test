@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 1 first input
+=======
+1 first input
+Ratnakumar adding 2nd commit
+3rd commit
+>>>>>>> 46e1949... 3rd Commit
